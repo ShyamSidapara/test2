@@ -1,0 +1,2 @@
+# khali amnamaj
+pritn("wdjkqwf")
